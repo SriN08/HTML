@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+    background-color: blue;
+    font-size : 37px;
+    border-radius: 12px;
+
+}
+button{
+
+    color:red;
+    border-radius: 6px;
+}
+.button:havor {
+    color:blue;
+}
